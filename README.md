@@ -110,3 +110,5 @@ package.json
 **Proyecto personal para generar series de tokens coleccionables de manera visual y sencilla.**
 
 ---
+
+# PR Merge: 2025-12-03 10:14:43
